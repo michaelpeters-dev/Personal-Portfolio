@@ -9,20 +9,21 @@ Welcome to my personal portfolio! This is a fully responsive, modern web applica
 
 ## Screenshots
 
-![Home](/projects/screenshots/home-screen.png)
+![Home](/screenshots/home-screen.png)
 
 <details>
 <summary>Click to view more screens</summary>
 
 <br>
 
-![About](/projects/screenshots/about-screen.png)  
-![Skills](/projects/screenshots/skills-screen.png)  
-![Projects](/projects/screenshots/projects-screen.png)  
-![Contact](/projects/screenshots/contact-screen.png)  
-![Search Modal](/projects/screenshots/search-screen.png)
+![About](/screenshots/about-screen.png)  
+![Skills](/screenshots/skills-screen.png)  
+![Projects](/screenshots/projects-screen.png)  
+![Contact](/screenshots/contact-screen.png)  
+![Search Modal](/screenshots/search-screen.png)
 
 </details>
+
 
 
 ---
