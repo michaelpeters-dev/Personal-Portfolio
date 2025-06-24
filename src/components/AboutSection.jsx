@@ -44,9 +44,9 @@ export const AboutSection = () => {
           {/* Personal Introduction */}
           <div className="flex flex-col text-left text-[1.05rem] leading-[1.75] h-full space-y-6">
             <p className="text-muted-foreground">
-              I'm a first-year Computer Science student at Georgia Tech, part of
-              the Honors Program. My interests span machine learning, language
-              (I speak English, Afrikaans, German, and a bit of French), and
+              I'm a first-year Honors Program Computer Science student at
+              Georgia Tech. My interests span machine learning, language (I
+              speak English, Afrikaans, German, and a bit of French), and
               building things that connect people and solve problems — whether
               that's through code or conversation. I hope to continue to become
               more experienced and keep doing more.
