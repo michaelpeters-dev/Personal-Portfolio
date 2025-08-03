@@ -41,6 +41,25 @@ const projects = [
     demoUrl: "https://finance-app-seven-ruby.vercel.app/",
     githubUrl: "https://github.com/michaelpeters-dev/Finance-Application",
   },
+  {
+    id: 3,
+    title: "Startica",
+    description:
+      "A public, multi-user messaging and content sharing platform for entrepreneurs",
+    image: "/projects/starticaapplication.png",
+    tags: [
+      "Next.js",
+      "React",
+      "Firebase",
+      "Tailwind",
+      "NextAuth",
+      "JavaScript",
+      "Responsive Design",
+    ],
+    year: 2025,
+    demoUrl: "https://startica.vercel.app/",
+    githubUrl: "https://github.com/michaelpeters-dev/Startica",
+  },
 ];
 
 // Main project showcase section
